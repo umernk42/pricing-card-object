@@ -1,0 +1,16 @@
+{
+  "name": "pricing-card-object",
+  "homepage": "https://umernk42.github.io/pricing-card-object/",
+  "version": "1.0.0",
+  "description": "An implementation of the front end mentor code challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
